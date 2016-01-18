@@ -3,15 +3,12 @@
 	<head>
 		<meta charset="UTF-8">
 		<link rel="stylesheet" href="/public_html/css/stylesheet.css">
+		<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 		<title>About Me</title>
 	</head>
 	<body>
-		<div id="wrapper">
-			<div id="header"></div>
-			<div id="content"></div>
-			<div id="footer"></div>
+		<div class="body">
+			<h1>About me</h1>
 		</div>
-
-		<p>Whoot!</p>
 	</body>
 </html>
