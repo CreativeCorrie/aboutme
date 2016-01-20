@@ -14,7 +14,7 @@
 					<div class="box">
 						<span class="boxheading">Multi-Faceted</span><br>
 						Name: Victoria Senolee Hooker<br>
-						Born: Route 66, Zuzax Exit. It's now a Park and Ride. Ionic, isn't it?<br>
+						Born: Route 66, Zuzax Exit.. It's now a Park and Ride. Ionic, isn't it?<br>
 						Career: Creator<br>
 						Education: Self-taught BS in Life, going for my Masters. If that doesn't kill me, I'll start thinking about my PHD.<br>
 						Ethnicity: I'm so mixed, I call myself American.<br>
